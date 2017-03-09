@@ -27,7 +27,7 @@ PODS:
   - SDWebImage/Core (3.7.6)
 
 DEPENDENCIES:
-  - AFNetworking
+  - AFNetworking (= 3.1.0)
   - FastEasyMapping (~> 1.0.1)
   - ReactiveCocoa (~> 2.5)
   - SDWebImage (~> 3.7)
@@ -38,4 +38,6 @@ SPEC CHECKSUMS:
   ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
   SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
 
-COCOAPODS: 0.38.0
+PODFILE CHECKSUM: 201a45e5d391a662151a9fd6f7096593caadfc14
+
+COCOAPODS: 1.1.1

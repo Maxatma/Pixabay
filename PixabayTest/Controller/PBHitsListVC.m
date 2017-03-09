@@ -19,6 +19,7 @@ static CGFloat const kRowHeight          = 80.0f;
 @interface PBHitsListVC () < UITableViewDelegate, UITableViewDataSource >
 @property (weak, nonatomic  ) IBOutlet UITableView *tableView;
 @property (nonatomic, strong) NSArray     *hits;
+    
 @end
 
 @implementation PBHitsListVC

@@ -55,9 +55,8 @@ static NSString * const kSearchString = @"q";
     
     NSDictionary *parameters = @{ kKey : kApiKey,
                                   kSearchString : kDefaultSearchString
-//                                  <##> : <##>,
-//                                  <##> : <##>,
                                  };
+    
     NSLog(@"PBApiManager loadImagesWithDefaultSearchString : %@",parameters);
     
     return [_sessionManager rac_requestWithMethod:GET
