@@ -13,4 +13,4 @@ Aleksandr Zaporozhchenko
 
 ## License
 
-AFHTTPSessionManager-RACExtensions is released under the MIT license. See LICENSE for details.
+Pixabay is released under the MIT license. See LICENSE for details.
